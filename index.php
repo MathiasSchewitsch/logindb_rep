@@ -26,8 +26,8 @@ session_start();
 		Hello, <?php echo $user_data['user_name']; ?>
 	</br>
 	<p>Click download button down bellow, to download and start playing Doom with Waves</p>
-	<a download="info.txt" href="info.txt" title="ImageName">
-		<img alt="ImageName" src="download.jpg" style="width:15%">
+	<a download="test.txt" href="info.txt" title="DownloadButton">
+		<img alt="DownloadButton" src="download.jpg" style="width:15%">
 	</a>
 
 </body>
